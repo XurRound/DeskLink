@@ -1,0 +1,6 @@
+[submodule "DeskLinkServer"]
+	path = DeskLinkServer
+	url = https://github.com/XurRound/DeskLinkServer
+[submodule "DeskLinkAndroid"]
+	path = DeskLinkAndroid
+	url = https://github.com/XurRound/DeskLinkAndroid
